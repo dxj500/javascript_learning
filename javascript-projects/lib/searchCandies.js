@@ -1,0 +1,3 @@
+const searchCandies = (name, price) => {
+  
+}
